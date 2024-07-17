@@ -1,6 +1,6 @@
 <template>
     <!-- 全屏容器 -->
-    <IndexShipei>  <!-- 通过调用适配函数，通过插槽的方式将整个大屏传入做适配 -->
+    <IndexShipei>  <!-- 通过调用适配组件，通过插槽的方式将整个大屏传入做适配 -->
             <dv-border-box-11 title="香蕉麻花皮演示" style="background-color: black;">
                 <!-- 我这里将页面分为上中下三块，这是第一块 -->
                 <div class="box">
